@@ -1,27 +1,20 @@
-Account age: **{{ ACCOUNT_AGE }}** years
+<h1 align="left">Hey there... 👋</h1>
+I am Dennis, a software developer from Germany. Beside my main profession in the automation industry I try to learn new things every day.
 
-Pushed **{{ COMMITS }}** commits
+<h1 align="left">GitHub statistics👋</h1>
 
-Opened **{{ ISSUES }}** issues
+For **{{ ACCOUNT_AGE }}** years I am working on side projects on GitHub now.
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
+In this time I pushed **{{ COMMITS }}** commits and opened **{{ ISSUES }}** issues.
 
-Reviewed **{{ CODE_REVIEWS }}** pull requests
+Also I submitted **{{ PULL_REQUESTS }}** pull requests to different repositories.
 
-Received **{{ STARS }}** stars
+My **{{ REPOSITORIES }}** repositories in total received **{{ STARS }}** stars till now.
 
-Own **{{ REPOSITORIES }}** repositories
+I try to help other open source projects from time to time and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Top 5 most used languages across my repositories are:
 
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
