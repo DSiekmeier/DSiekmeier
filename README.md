@@ -3,9 +3,7 @@ I am Dennis, a software developer from Germany. Beside my main profession in the
 
 <h3 align="left">GitHub statistics</h3>
 
-For **7** years I am working on side projects on GitHub now.
-
-In this time I pushed **98** commits and opened **72** issues.
+In **7** years of working on side projects on GitHub, I pushed **99** commits and opened **72** issues.
 
 I also submitted **23** pull requests to different repositories.
 
