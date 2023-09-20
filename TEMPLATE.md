@@ -1,7 +1,7 @@
 <h1 align="left">Hey there... 👋</h1>
 I am Dennis, a software developer from Germany. Beside my main profession in the automation industry I try to learn new things every day.
 
-<h2 align="left">GitHub statistics</h2>
+<h3 align="left">GitHub statistics</h3>
 
 For **{{ ACCOUNT_AGE }}** years I am working on side projects on GitHub now.
 
