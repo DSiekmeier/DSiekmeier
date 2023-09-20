@@ -1,11 +1,11 @@
 <h1 align="left">Hey there... 👋</h1>
 I am Dennis, a software developer from Germany. Beside my main profession in the automation industry I try to learn new things every day.
 
-<h2 align="left">GitHub statistics</h2>
+<h3 align="left">GitHub statistics</h3>
 
 For **7** years I am working on side projects on GitHub now.
 
-In this time I pushed **97** commits and opened **72** issues.
+In this time I pushed **98** commits and opened **72** issues.
 
 I also submitted **23** pull requests to different repositories.
 
