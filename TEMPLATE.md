@@ -11,8 +11,8 @@ My **{{ REPOSITORIES }}** repositories in total received **{{ STARS }}** stars t
 
 Trying to help other open source projects I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-The Top 5 used languages across my repositories are:
+The top used languages across my repositories are:
 
-{{ LANGUAGE_TEMPLATE_START:max=5 }}
+{{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
