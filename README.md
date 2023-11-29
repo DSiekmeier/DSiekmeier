@@ -5,7 +5,7 @@ I am Dennis, a software developer from Germany. Beside my main profession in the
 
 In **7** years of working on side projects on GitHub, I pushed **106** commits and opened **79** issues.
 
-I also submitted **26** pull requests to different repositories.
+I also submitted **27** pull requests to different repositories.
 
 My **11** repositories in total received **7** stars till now.
 
