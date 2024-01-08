@@ -7,7 +7,7 @@ In **7** years of working on side projects on GitHub, I pushed **109** commits a
 
 I also submitted **27** pull requests to different repositories.
 
-My **11** repositories in total received **7** stars till now.
+My **11** repositories in total received **8** stars till now.
 
 Trying to help other open source projects I contributed to **4** public repositories.
 
