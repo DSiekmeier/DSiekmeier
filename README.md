@@ -3,7 +3,7 @@ I am Dennis, a software developer from Germany. Beside my main profession in the
 
 <h3 align="left">GitHub statistics</h3>
 
-In **8** years of working on side projects on GitHub, I pushed **109** commits and opened **81** issues.
+In **8** years of working on side projects on GitHub, I pushed **111** commits and opened **82** issues.
 
 I also submitted **27** pull requests to different repositories.
 
@@ -13,11 +13,11 @@ Trying to help other open source projects I contributed to **4** public reposito
 
 The top used languages across my repositories are:
 
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B140.6%25)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B137.7%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B112.3%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B141.5%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B137.1%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B112.1%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.5%25)
-![CMake](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA3434&message=CMake%EF%B8%B13.1%25)
+![CMake](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA3434&message=CMake%EF%B8%B13%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11.6%25)
 ![Makefile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23427819&message=Makefile%EF%B8%B10.5%25)
 ![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%EF%B8%B10.4%25)
