@@ -9,7 +9,7 @@ I also submitted **27** pull requests to different repositories.
 
 My **10** repositories in total received **7** stars till now.
 
-Trying to help other open source projects I contributed to **3** public repositories.
+Trying to help other open source projects I contributed to **2** public repositories.
 
 The top used languages across my repositories are:
 
