@@ -3,11 +3,11 @@ I am Dennis, a software developer from Germany. Beside my main profession in the
 
 <h3 align="left">GitHub statistics</h3>
 
-In **8** years of working on side projects on GitHub, I pushed **113** commits and opened **83** issues.
+In **8** years of working on side projects on GitHub, I pushed **114** commits and opened **83** issues.
 
 I also submitted **28** pull requests to different repositories.
 
-My **10** repositories in total received **7** stars till now.
+My **11** repositories in total received **7** stars till now.
 
 Trying to help other open source projects I contributed to **2** public repositories.
 
